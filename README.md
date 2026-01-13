@@ -4,7 +4,7 @@ Official YETIFROG memecoin whitepaper and links
 # 🐸❄️ YETIFROG — Official Whitepaper
 
 ## 📄 Whitepaper
-- Download: [WHITEPAPER_LINK]
+- Download: [https://github.com/Ayox92/yetifrog-whitepaper/blob/main/]
 
 ## 🔗 Socials
 - Twitter: [https://x.com/YetiFrog]
